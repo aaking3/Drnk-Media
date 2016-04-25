@@ -1,0 +1,36 @@
+[30-Jul-2015 05:59:30 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[01-Aug-2015 09:23:18 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[02-Aug-2015 12:13:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/david2278/public_html/DealDBWriter.php:47) in /home2/david2278/public_html/dashboard/submit_deals.php on line 111
+[03-Aug-2015 09:04:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/david2278/public_html/DealDBWriter.php:47) in /home2/david2278/public_html/dashboard/submit_deals.php on line 111
+[03-Aug-2015 09:05:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/david2278/public_html/DealDBWriter.php:47) in /home2/david2278/public_html/dashboard/submit_deals.php on line 111
+[03-Aug-2015 09:06:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/david2278/public_html/DealDBWriter.php:47) in /home2/david2278/public_html/dashboard/submit_deals.php on line 111
+[03-Aug-2015 09:11:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/david2278/public_html/DealDBWriter.php:47) in /home2/david2278/public_html/dashboard/submit_deals.php on line 111
+[03-Aug-2015 09:12:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/david2278/public_html/DealDBWriter.php:47) in /home2/david2278/public_html/dashboard/submit_deals.php on line 111
+[03-Aug-2015 09:13:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/david2278/public_html/DealDBWriter.php:47) in /home2/david2278/public_html/dashboard/submit_deals.php on line 111
+[17-Aug-2015 23:20:47 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[19-Aug-2015 02:02:28 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[19-Aug-2015 17:56:36 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[20-Aug-2015 16:49:41 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[22-Aug-2015 20:44:38 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[25-Aug-2015 22:24:27 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[25-Aug-2015 22:24:30 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[26-Aug-2015 16:51:43 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[26-Aug-2015 16:51:46 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[27-Aug-2015 10:53:42 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[27-Aug-2015 19:12:15 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[28-Aug-2015 14:39:14 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[30-Aug-2015 07:26:50 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[31-Aug-2015 17:25:55 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[02-Sep-2015 12:27:22 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[03-Sep-2015 17:18:01 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[04-Sep-2015 12:16:01 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[04-Sep-2015 17:12:10 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[10-Sep-2015 21:29:00 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[22-Sep-2015 22:11:41 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[23-Sep-2015 13:03:45 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[28-Sep-2015 19:56:30 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[28-Sep-2015 22:18:58 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[05-Oct-2015 14:07:21 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[05-Oct-2015 14:11:54 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[05-Oct-2015 14:11:55 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65
+[10-Oct-2015 08:17:46 America/Chicago] PHP Fatal error:  Call to a member function getEmail() on a non-object in /home2/david2278/public_html/dashboard/index.php on line 65

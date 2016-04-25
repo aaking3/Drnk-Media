@@ -1,0 +1,72 @@
+body {
+	font-family: Ubuntu;
+}
+
+h2 {
+	font-weight: bold;
+}
+
+.account-name-dropdown,
+.account-name-dropdown > ul > li > a{
+	font-weight: bold;
+}
+
+.navbar-brand {	
+	font-weight: bold;
+}
+
+.side-bar-menu {
+	font-weight: bold;
+}
+
+.my_profile_wrapper {
+	height: 100%;
+	background: white;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+.my_profile_wrapper .form-group,
+.my_profile_wrapper .form-inline {
+	margin-bottom: 35px;
+	font-size: 1.1em;
+}
+
+.edit_deals_wrapper {
+	background: white;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+/********BUSINESS PAGE STYLES***************/
+
+.text-bold {
+	font-weight: bold;
+}
+
+.panel-default > .panel-heading {
+	/*background: #ED8E54;*/
+	background: #337AB7;
+	color: white;
+}
+
+#panel-success {
+	background: #52ae52;
+	color: white;
+}
+
+.business-hours-table td {
+	padding: 10px;
+}
+
+.pending-changes-message {
+	margin-bottom: 40px;
+}
+
+.business-pending-btn {
+	width: 49%;
+}
+
+.business-pending-btn-left {
+	margin-right: 5px;
+}

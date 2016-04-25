@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule ^api/city/?$ api/api.php?city=$1&bar=true&liquorstore=true
+RewriteRule ^api/city/bar/?$ api/api.php?city=$1&bar=true&liquorstore=false
+RewriteRule ^api/city/liquorstore/?$ api/api.php?city=$1&bar=false&liquorstore=true

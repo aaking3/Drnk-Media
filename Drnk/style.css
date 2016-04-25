@@ -1,0 +1,29 @@
+html, 
+body, 
+.main-wrapper,
+.main-content {
+	height: 100%;
+}
+
+body {
+	background: url("assets/flag.jpg");
+}
+
+.hand {
+	background: url("assets/hand.png");
+	background-position: left bottom;
+	background-repeat: no-repeat;
+	height: 100%;
+}
+
+.button {
+	background: url("assets/button.jpg");
+	text-align: right;
+}
+
+#login-link a{
+	color: white;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 1.2em;
+}

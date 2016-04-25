@@ -1,0 +1,136 @@
+html
+{ height: 100%;}
+
+*
+{ margin: 0;
+  padding: 0;}
+
+body
+{ font: normal .80em arial, sans-serif;
+  background: #FFF;
+  color: #1D1D1D;}
+
+p
+{ padding: 0 0 20px 0;
+  line-height: 1.7em;}
+  
+img
+{ 
+	border: 0;
+  	/*margin-left: 20px;*/
+}
+
+
+a, a:hover
+{ background: transparent;
+  outline: none;
+  text-decoration: underline;
+  color: #5D5D5D;}
+
+a:hover
+{ text-decoration: underline;
+  color: #1D1D1D;}
+  
+
+
+#main, #header, #banner, #menubar, #site_content, #footer, #contact, #footer_content
+{ margin-left: auto; 
+  margin-right: auto;}
+
+span
+{ color: #1D1D1D;}
+
+
+#site_content
+{ width: 960px;
+  height: 1000px; 
+  overflow: hidden; 
+  background: transparent url(../img/pattern.png) repeat;
+}
+
+#site_content h1
+{
+  width: 960px;
+  margin-top: 25px;
+  font: normal 450% arial, sans-serif;
+  color: #03AFF7;
+  letter-spacing: -4px;
+  background: transparent;
+  position: absolute;
+  text-indent: 252px;
+}
+
+#site_content h4
+{
+  width: 960px;
+  font: normal 160% arial, sans-serif;
+  color: #1D1D1D;
+  letter-spacing: -1px;
+  background: transparent;
+  text-indent: 235px;
+	
+}
+
+
+#content
+{ text-align: left;
+  width: 960px;
+  padding: 0;
+  margin: 20px 0 20px 20px;
+}
+  
+.content_photo
+{ width: 960px;
+  text-align: center;
+  margin: 20px 0 20px 20px;
+  float: left;}
+
+.content_image
+{ width: 298px;
+  margin-right: 10px;
+  float: left;
+  border: 1px solid #DDD;
+  background: #FFF;}
+
+.content_text
+{ width: 278px;
+  height: 185px;
+  margin: 0 0 10px 0;
+  padding: 15px 0 0 0;
+  float: left;}
+  
+#footer
+{ width: 960px;
+  position:relative;
+  font: normal 100% arial, sans-serif;
+  height: 70px;
+  margin-bottom: 40px;
+  padding: 20px 0 0px 0;
+  text-align: center; 
+  background: transparent url(../img/footer.png) no-repeat;
+  color: #FFF;}
+
+#footer a, #footer a:hover
+{ color: #FFF;
+  text-decoration: underline;}
+
+#footer a:hover
+{ text-decoration: none;}
+
+.footer_content
+{ width: 960px;
+  text-align: center;
+  float: left;}
+  
+.footer_content h2
+{ color: #FFF;
+  vertical-align: middle;
+
+}
+
+.footer_text
+{ width: 298px;
+  margin-right: 10px;
+  float: left;
+}
+  
